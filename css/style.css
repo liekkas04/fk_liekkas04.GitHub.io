@@ -836,6 +836,7 @@ padding: 3em 11em 0em;
 .abut-img-two img {
     top: 273px;
     width: 72%;
+    left: 100%;
 }
 .title-w3ls-text p {
     font-size: 15px;
@@ -908,6 +909,7 @@ button.btn1 {
 .abut-img-two img {
     top: 192px;
     width: 69%;
+    left: 100%;
 }
 .blog-info {
     width: 9%;
@@ -943,7 +945,7 @@ h3.title {
 }
 @media(max-width:800px){
 .abut-img-two img {
-    left: 28%;
+    left: 100%;
 }	
 .sub-headder h6 a {
     left: 76px;
@@ -1030,6 +1032,7 @@ h3.title {
 .abut-img-two img {
     top: 232px;
     width: 83%;
+    left: 100%;
 }
 .about-right-grid h2, .store-details h4 {
     font-size: 29px;
@@ -1049,7 +1052,7 @@ h3.title {
     padding: 2em .5em 0em;
 }
 .abut-img-two img {
-    left: 21%;
+    left: 100%;
 }
 .blog-txt-info {
     left: 23%;
