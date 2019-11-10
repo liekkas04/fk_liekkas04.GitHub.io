@@ -456,7 +456,7 @@ background-color: #212121;
     padding-top: 20em;
 }
 .banner-left-side{
-    background: url(../img/v_1.jpg);
+    background: url(../img/v_4.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -760,7 +760,7 @@ a.move-top span {
 @media(max-width:1440px){
 .banner-left-side {
     min-height: 680px;
-    background: url(../img/v_1.jpg);
+    background: url(../img/v_4.jpg);
 }	
 .main-banner {
     padding-top: 15em;
@@ -829,7 +829,7 @@ padding: 3em 11em 0em;
 }
 .banner-left-side {
     min-height: 600px;
-    background: url(../img/v_1.jpg);
+    background: url(../img/v_4.jpg);
 }
 .main-banner {
     padding-top: 13em;
@@ -922,7 +922,7 @@ button.btn1 {
 @media(max-width:900px){
 .banner-left-side {
     min-height: 560px;
-    background: url(../img/v_1.jpg);
+    background: url(../img/v_4.jpg);
 }
 .main-banner {
     padding-top: 11em;
@@ -1023,7 +1023,7 @@ h3.title {
 }
 .banner-left-side {
     min-height: 513px;
-    background: url("../img/v_1.jpg");
+    background: url("../img/v_4.jpg");
     background-size: cover;
     object-fit: cover;
 }
@@ -1071,7 +1071,7 @@ h3.title {
 }
 .banner-left-side {
     min-height: 493px;
-    background: url(../img/v_1.jpg);
+    background: url(../img/v_4.jpg);
 }
 .banner-right-txt h4 {
     font-size: 4em;
@@ -1139,7 +1139,7 @@ h3.title {
 @media(max-width:480px){
 .banner-left-side {
     min-height: 460px;
-    background: url(../img/v_1.jpg);
+    background: url(../img/v_4.jpg);
 }
 .main-banner {
     padding-top: 9em;
@@ -1210,7 +1210,7 @@ button.btn1 {
 @media(max-width:384px){
 .banner-left-side {
     min-height: 440px;
-    background: url(../img/v_1.jpg);
+    background: url(../img/v_4.jpg);
 }
 .main-banner {
     padding-top: 7em;
