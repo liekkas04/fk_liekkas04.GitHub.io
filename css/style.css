@@ -1206,6 +1206,9 @@ button.btn1 {
 .newsletter input[type="email"] {
     padding: 8px 13px;
 }
+    .footer-bottom-item{
+        margin-top: -200px;
+    }
 }
 @media(max-width:384px){
 .banner-left-side {
@@ -1221,6 +1224,11 @@ button.btn1 {
 .blog-info {
     width: 16%;
 }
+    .footer-bottom-item{
+        margin-top: -200px;
+        background-color: black;
+        color: #ffffff
+    }
 }
 @media(max-width:375px){
 h3.title {
@@ -1237,7 +1245,12 @@ h3.title {
 }
 .contact-forms textarea {
     height: 7em;
-}	
+}
+    .footer-bottom-item{
+        margin-top: -200px;
+        background-color: black;
+        color: #ffffff
+    }
 }
 @media(max-width:320px){
 .banner-right-txt h4 {
@@ -1257,6 +1270,11 @@ h3.title {
 }
 h3.title {
     font-size: 35px;
-}	
+}
+.footer-bottom-item{
+    background-color: black;
+    color: #ffffff;
+    margin-top: -200px;
+}
 }
 /*--//responsive--*/
