@@ -99,6 +99,9 @@ p{
     letter-spacing: 1px;
 	line-height: 27px;
 }
+/*.footer-bottom-item{*/
+/*    margin: 120px 0px;*/
+/*}*/
 
 /* navigation */
 
@@ -1166,6 +1169,11 @@ h3.title {
 .blog-info {
     width: 13%;
 }
+    .footer-bottom-item{
+        background-color: black;
+        color: #ffffff;
+        margin-top: -200px;
+    }
 }
 @media(max-width:440px){
 #logo a {
@@ -1186,6 +1194,11 @@ h3.title {
 .ser-text-wthree h4, .blog-txt-info h4 a, .footer-bottom-info h4 {
     font-size: 19px;
 }
+    .footer-bottom-item{
+        background-color: black;
+        color: #ffffff;
+        margin-top: -200px;
+    }
 }
 @media(max-width:414px){
 .w3three-veg-org h5 {
